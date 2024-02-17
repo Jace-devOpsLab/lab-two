@@ -7,3 +7,4 @@ Add new line
 
 Test for squash
 N1
+N2
